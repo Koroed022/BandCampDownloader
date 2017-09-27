@@ -1,0 +1,1 @@
+java -jar Tic-tac-toe-AI.jar
